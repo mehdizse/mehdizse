@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour 👋, Je suis Mehdi Ghomari</h1>
 <h3 align="center">Un développeur mobile passionné d'Algérie</h3>
-<h4>J'ai une connaissance approfondie du développement d'applications mobiles. J'aime résoudre des problèmes et je suis très enthousiaste à l'idée d'apprendre de nouvelles choses et d'essayer de nouvelles idées. De plus, je suis passionné par l'apprentissage des nouvelles technologies et j'aime tout apprendre sur les différents langages de programmation, les frameworks, les algorithmes, les structures de données, les modèles de conception.</h4>
+J'ai une connaissance approfondie du développement d'applications mobiles. J'aime résoudre des problèmes et je suis très enthousiaste à l'idée d'apprendre de nouvelles choses et d'essayer de nouvelles idées. De plus, je suis passionné par l'apprentissage des nouvelles technologies et j'aime tout apprendre sur les différents langages de programmation, les frameworks, les algorithmes, les structures de données, les modèles de conception.
 
 - 🔭 je travaille actuellement en tant que **développeur mobile avec Flutter**
 
